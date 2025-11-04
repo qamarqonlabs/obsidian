@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "8478d9f6fe0ac4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "518ccfe293ae89f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08861a29ccc16f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-11-4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-4"
+            }
+          },
+          {
+            "id": "299b14da2a05a644",
+            "type": "leaf",
+            "state": {
+              "type": "fluent-task-genius-view",
+              "state": {
+                "currentWorkspace": "ws_1761767461921_zrfbecg9n",
+                "viewMode": "kanban",
+                "viewModeByViewId": {
+                  "projects": "kanban"
+                },
+                "searchQuery": "",
+                "filters": {},
+                "filterInputValue": "",
+                "selectedProject": "QamarToolsLab",
+                "currentViewId": "projects"
+              },
+              "icon": "task-genius",
+              "title": "Task Genius"
+            }
+          },
+          {
+            "id": "8471cf58776c8837",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-04 16.57.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-04 16.57.49.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23ce1ed4dec4002",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f38f4380dcb39d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8294e7d4e65e74a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90d7675736cb44fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29c19e761ff2d97e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.50260543823242,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b10e309baa6a55ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbd5029477c8c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36e22e999979502",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-10-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-29"
+            }
+          },
+          {
+            "id": "081af78e1d43e4d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-10-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-29"
+            }
+          },
+          {
+            "id": "cf074bf93c842545",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd2fee817559bbf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2232b32610c0614a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "2025-10-29.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "5ce6a8058668ed88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "753525de0e4550c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-project-garden:Project Garden": false
+    }
+  },
+  "active": "8471cf58776c8837",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-04 16.57.49.excalidraw.md",
+    "2025-11-4.md",
+    "Excalidraw",
+    "Pasted image 20251104163217.png",
+    "Pasted image 20251104163151.png",
+    "dailyDiary/2025-10-29.md",
+    "2025-31-10.md",
+    "Pasted image 20251101124109.png",
+    "Untitled.base",
+    "Welcome.md",
+    "202510301951.md",
+    "dailyDiary/Excalidraw/Drawing 2025-10-29 22.47.43.excalidraw.md",
+    "dailyDiary/2025-30-10.md",
+    "dailyDiary/Pasted Image 20251029233237_298.png",
+    "dailyDiary/Pasted Image 20251029233427_210.png",
+    "dailyDiary/Pasted Image 20251029233556_862.png",
+    "QuickCapture.md",
+    "Untitled",
+    "dailyDiary/2025-10-29.md~",
+    "Projects/QamarToolsLab.md",
+    "Projects/qamartoolsLab/Main Project file.md",
+    "Projects/qamartoolsLab",
+    "Projects",
+    "dailyDiary",
+    "dailyDiary/Excalidraw",
+    "Untitled.canvas"
+  ]
+}
